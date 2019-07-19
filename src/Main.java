@@ -13,5 +13,5 @@ public class Main {
             Dezimalzahl=Dezimalzahl/2;
             }
     }
-    
+   
 }
